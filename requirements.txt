@@ -4,5 +4,8 @@ nltk
 fuzzywuzzy
 distance 
 bs4
-nltk
+re
+pickle
+numpy
+
 
