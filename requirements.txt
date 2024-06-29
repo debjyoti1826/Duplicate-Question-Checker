@@ -4,8 +4,6 @@ nltk
 fuzzywuzzy
 distance 
 bs4
-re
-pickle
 numpy
 
 
